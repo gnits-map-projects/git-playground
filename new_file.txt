@@ -4,3 +4,5 @@ New file
 444
 
 New line
+
+User 1
