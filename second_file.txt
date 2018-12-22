@@ -1,5 +1,7 @@
 Second file
 
+TEST BRANCH
+
 Added by user2
 
 One more by user 2
